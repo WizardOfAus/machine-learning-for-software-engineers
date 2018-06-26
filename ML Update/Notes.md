@@ -7,3 +7,13 @@ A computer program is said to learn from experience E with respect to some task 
 ## Kernel Functions
 
 https://towardsdatascience.com/kernel-function-6f1d2be6091
+
+## Pre-reqs Learning
+
+[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)
+
+Notes: http://bit.do/learnhowtolearn
+
+
+
+
